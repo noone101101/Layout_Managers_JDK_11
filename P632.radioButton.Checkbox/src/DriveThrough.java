@@ -71,8 +71,7 @@ public class DriveThrough extends JFrame {
       frame.setLocationRelativeTo(null);
       frame.setVisible(true);
 
-      System.out.println("hello World");
-
+      System.out.println("Stay Focused Mr Quinn");
     });
   }
 }
